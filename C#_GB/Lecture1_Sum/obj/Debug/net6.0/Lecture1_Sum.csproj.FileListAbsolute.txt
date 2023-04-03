@@ -1,0 +1,15 @@
+/Users/polinalazareva/Desktop/ГБ/C#_GB/Lecture1_Sum/bin/Debug/net6.0/Lecture1_Sum
+/Users/polinalazareva/Desktop/ГБ/C#_GB/Lecture1_Sum/bin/Debug/net6.0/Lecture1_Sum.deps.json
+/Users/polinalazareva/Desktop/ГБ/C#_GB/Lecture1_Sum/bin/Debug/net6.0/Lecture1_Sum.runtimeconfig.json
+/Users/polinalazareva/Desktop/ГБ/C#_GB/Lecture1_Sum/bin/Debug/net6.0/Lecture1_Sum.dll
+/Users/polinalazareva/Desktop/ГБ/C#_GB/Lecture1_Sum/bin/Debug/net6.0/Lecture1_Sum.pdb
+/Users/polinalazareva/Desktop/ГБ/C#_GB/Lecture1_Sum/obj/Debug/net6.0/Lecture1_Sum.csproj.AssemblyReference.cache
+/Users/polinalazareva/Desktop/ГБ/C#_GB/Lecture1_Sum/obj/Debug/net6.0/Lecture1_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polinalazareva/Desktop/ГБ/C#_GB/Lecture1_Sum/obj/Debug/net6.0/Lecture1_Sum.AssemblyInfoInputs.cache
+/Users/polinalazareva/Desktop/ГБ/C#_GB/Lecture1_Sum/obj/Debug/net6.0/Lecture1_Sum.AssemblyInfo.cs
+/Users/polinalazareva/Desktop/ГБ/C#_GB/Lecture1_Sum/obj/Debug/net6.0/Lecture1_Sum.csproj.CoreCompileInputs.cache
+/Users/polinalazareva/Desktop/ГБ/C#_GB/Lecture1_Sum/obj/Debug/net6.0/Lecture1_Sum.dll
+/Users/polinalazareva/Desktop/ГБ/C#_GB/Lecture1_Sum/obj/Debug/net6.0/refint/Lecture1_Sum.dll
+/Users/polinalazareva/Desktop/ГБ/C#_GB/Lecture1_Sum/obj/Debug/net6.0/Lecture1_Sum.pdb
+/Users/polinalazareva/Desktop/ГБ/C#_GB/Lecture1_Sum/obj/Debug/net6.0/Lecture1_Sum.genruntimeconfig.cache
+/Users/polinalazareva/Desktop/ГБ/C#_GB/Lecture1_Sum/obj/Debug/net6.0/ref/Lecture1_Sum.dll
