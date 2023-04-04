@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lectue1_IF_ELSE/1.0.0": {
+        "runtime": {
+          "Lectue1_IF_ELSE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lectue1_IF_ELSE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
