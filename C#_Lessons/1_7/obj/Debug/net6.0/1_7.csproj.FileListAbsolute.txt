@@ -1,0 +1,15 @@
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/1_7/obj/Debug/net6.0/1_7.csproj.AssemblyReference.cache
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/1_7/obj/Debug/net6.0/1_7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/1_7/obj/Debug/net6.0/1_7.AssemblyInfoInputs.cache
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/1_7/obj/Debug/net6.0/1_7.AssemblyInfo.cs
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/1_7/obj/Debug/net6.0/1_7.csproj.CoreCompileInputs.cache
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/1_7/bin/Debug/net6.0/1_7
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/1_7/bin/Debug/net6.0/1_7.deps.json
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/1_7/bin/Debug/net6.0/1_7.runtimeconfig.json
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/1_7/bin/Debug/net6.0/1_7.dll
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/1_7/bin/Debug/net6.0/1_7.pdb
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/1_7/obj/Debug/net6.0/1_7.dll
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/1_7/obj/Debug/net6.0/refint/1_7.dll
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/1_7/obj/Debug/net6.0/1_7.pdb
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/1_7/obj/Debug/net6.0/1_7.genruntimeconfig.cache
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/1_7/obj/Debug/net6.0/ref/1_7.dll
