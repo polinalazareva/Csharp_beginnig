@@ -107,10 +107,23 @@ int b = a;
 
 while(b <= a){
 Console.WriteLine($"{b},");
-    b = b + 1;
+    b = b + 2;
 }
 
 //Не получилась:( //
 
 */
+
+
+Console.WriteLine("Введите число N, чтобы увидеть все четные числа от 1 до N");
+
+int a = int.Parse(Console.ReadLine());
+
+int b = a;
+
+while(b <= a){
+Console.WriteLine($"{b},");
+    b = b + 2;
+    }
+
 
