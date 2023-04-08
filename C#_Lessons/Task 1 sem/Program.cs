@@ -17,11 +17,15 @@ if(a > b){
 Console.WriteLine("max = " + a , "min = " + b);
 }
 
+else{
+Console.WriteLine("Числа равны друг другу");
+}
+
 if(b > a){
 Console.WriteLine("max = " + b, "min = " + a);
 }
 
-else{
+if(b == a){
 Console.WriteLine("Числа равны друг другу");
 }
 
@@ -109,3 +113,4 @@ Console.WriteLine($"{b},");
 //Не получилась:( //
 
 */
+
