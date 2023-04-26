@@ -1,0 +1,15 @@
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/Task 4 sem/bin/Debug/net6.0/Task 4 sem
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/Task 4 sem/bin/Debug/net6.0/Task 4 sem.deps.json
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/Task 4 sem/bin/Debug/net6.0/Task 4 sem.runtimeconfig.json
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/Task 4 sem/bin/Debug/net6.0/Task 4 sem.dll
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/Task 4 sem/bin/Debug/net6.0/Task 4 sem.pdb
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/Task 4 sem/obj/Debug/net6.0/Task 4 sem.csproj.AssemblyReference.cache
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/Task 4 sem/obj/Debug/net6.0/Task 4 sem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/Task 4 sem/obj/Debug/net6.0/Task 4 sem.AssemblyInfoInputs.cache
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/Task 4 sem/obj/Debug/net6.0/Task 4 sem.AssemblyInfo.cs
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/Task 4 sem/obj/Debug/net6.0/Task 4 sem.csproj.CoreCompileInputs.cache
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/Task 4 sem/obj/Debug/net6.0/Task 4 sem.dll
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/Task 4 sem/obj/Debug/net6.0/refint/Task 4 sem.dll
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/Task 4 sem/obj/Debug/net6.0/Task 4 sem.pdb
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/Task 4 sem/obj/Debug/net6.0/Task 4 sem.genruntimeconfig.cache
+/Users/polinalazareva/Desktop/ГБ/C#_Lessons/Task 4 sem/obj/Debug/net6.0/ref/Task 4 sem.dll
